@@ -1,5 +1,5 @@
 📚 Unigine Exporter Pro - Documentation
-Version 2.1.0 (Stable)
+Version 1.0.0 (Stable)
 📑 Table of Contents
 1.	Introduction
 2.	Installation
@@ -23,13 +23,13 @@ Unigine Exporter Pro is a professional Blender addon designed for exporting 3D m
 •	✅ Skeletal animation support
 •	✅ Automatic .node file creation
 •	✅ Intelligent texture copying
-•	✅ Support for all major Unigine versions (2.14 – 2.20)
+•	✅ Support for all major Unigine versions (2.19 – 2.20)
 •	✅ Compatible with Blender 4.0+
 ________________________________________
 📥 Installation
 System Requirements
 •	Blender: version 4.0 or higher
-•	Unigine: version 2.14 – 2.20
+•	Unigine: version 2.19 – 2.20
 •	OS: Windows 10/11, Linux, macOS
 Step-by-Step Installation
 1.	Download the addon
@@ -71,7 +71,7 @@ ________________________________________
 Main Panel
 text
 ┌─────────────────────────────────┐
-│ Unigine Exporter Pro v2.1.0     │
+│ Unigine Exporter Pro v1.0.0     │
 │ ✅ Project OK                    │
 ├─────────────────────────────────┤
 │ Export Mode                      │
