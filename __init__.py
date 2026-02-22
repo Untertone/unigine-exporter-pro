@@ -6,7 +6,7 @@
 bl_info = {
     "name": "Unigine Exporter Pro",
     "author": "Your Name",
-    "version": (2, 1, 0),
+    "version": (1, 0, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Unigine",
     "description": "Пакетный экспорт моделей, материалов и анимаций в Unigine",
