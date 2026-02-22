@@ -24,7 +24,7 @@
 
 | Main Panel |
 |------------|
-| [![Panel](docs/screenshots/panel.png)]
+[![1](docs/unigine-exporter-pro.png)
 
 ---
 
