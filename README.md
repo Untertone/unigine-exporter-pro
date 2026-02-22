@@ -24,7 +24,7 @@
 
 ## 🔧 Installation
 
-1. Download the latest release from the [Releases page](https://github.com/yourname/unigine-exporter-pro/releases).
+1. Download the latest release from the [Releases page](https://github.com/Untertone/unigine-exporter-pro/releases).
 2. In Blender, go to `Edit > Preferences > Add-ons`.
 3. Click `Install...` and select the downloaded ZIP file.
 4. Enable the addon by checking `Unigine Exporter Pro`.
