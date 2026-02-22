@@ -22,8 +22,8 @@
 
 ## 📸 Screenshots
 
-| Main Panel | Batch Export Preview |
-|------------|----------------------|
+| Main Panel |
+|------------|
 | ![Panel](docs/screenshots/panel.png)
 
 ---
