@@ -53,7 +53,7 @@ from . import ui
 def register():
     """Регистрация всех модулей"""
     print("\n" + "="*60)
-    print("📦 РЕГИСТРАЦИЯ UNIGINE EXPORTER PRO v2.1.0")
+    print("📦 РЕГИСТРАЦИЯ UNIGINE EXPORTER PRO v1.0.0")
     print("="*60)
     
     # Регистрируем в правильном порядке
@@ -63,7 +63,7 @@ def register():
     ui.register()
     
     print("\n" + "="*60)
-    print("✅ Unigine Exporter Pro v2.1.0 зарегистрирован")
+    print("✅ Unigine Exporter Pro v1.0.0 зарегистрирован")
     print("="*60 + "\n")
 
 def unregister():
