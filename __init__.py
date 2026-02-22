@@ -5,7 +5,7 @@
 # ======================================
 bl_info = {
     "name": "Unigine Exporter Pro",
-    "author": "Your Name",
+    "author": "Alexander Filatov",
     "version": (1, 0, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Unigine",
