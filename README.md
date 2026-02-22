@@ -45,3 +45,13 @@
 5. **Click `EXPORT`** and wait for completion.
 
 All exported files will be placed inside your project's `data/` folder with the correct structure:
+data/
+├── meshes/
+│ ├── MyModel.fbx
+│ ├── MyModel.fbm/ (textures for Unigine importer)
+│ └── MyModel.node
+├── materials/
+│ └── MyModel.mat
+└── textures/
+├── diffuse.png
+└── normal.png
