@@ -24,7 +24,7 @@
 
 | Main Panel | Batch Export Preview |
 |------------|----------------------|
-| ![Panel](docs/screenshots/panel.png) | ![Batch](docs/screenshots/batch-preview.png) |
+| ![Panel](docs/screenshots/panel.png)
 
 ---
 
