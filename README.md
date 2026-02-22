@@ -2,7 +2,6 @@
 
 **Professional Blender addon for batch exporting models, materials, and animations to the Unigine engine.**
 
-![Version](https://img.shields.io/badge/version-1.0.0)
 ![Blender](https://img.shields.io/badge/Blender-4.0+-orange)
 ![Unigine](https://img.shields.io/badge/Unigine-2.19--2.20-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
