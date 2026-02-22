@@ -31,7 +31,7 @@ class UNIGINE_PT_main_panel(Panel):
         settings = context.scene.unigine
         
         layout.label(text="Professional Exporter", icon='WORLD')
-        layout.label(text="v2.1.0 | Batch Export")
+        layout.label(text="v1.0.0 | Batch Export")
         
         if settings.project_path:
             if os.path.exists(settings.project_path):
