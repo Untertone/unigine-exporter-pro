@@ -24,7 +24,7 @@
 
 | Main Panel |
 |------------|
-| ![Panel](docs/screenshots/panel.png)
+| [![Panel](docs/screenshots/panel.png)](https://github.com/Untertone/unigine-exporter-pro/blob/main/docs/unigine-exporter-pro.png)
 
 ---
 
